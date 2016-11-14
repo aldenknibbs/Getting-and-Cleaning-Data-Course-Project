@@ -9,7 +9,7 @@ analysis. A full description of the data used in this project can be found at [T
 [The source data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ### Making Modifications to This Script
-The script (run_anlaysis.R) creates a "data" directory, if a dicrectory of that name does not already exist, where source and output data will be saved. If you wish to save to a specific location you will need to modify the script (lines 40-42).
+The script (run_anlaysis.R) creates a "data" directory, if a dicrectory of that name does not already exist, where source and output data will be saved. If you wish to save to a specific location you will need to modify the script (lines 28-30).
 
 ### Project Summary
 The following is a summary description of the project instructions
