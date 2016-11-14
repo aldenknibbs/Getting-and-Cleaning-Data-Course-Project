@@ -1,8 +1,6 @@
 ## Getting and Cleaning Data Project README.md
 
-### Alden Knibbs
-
-This repository for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course by Coursera.
+Alden Knibbs created this repository for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course by Coursera.
 
 ### Overview
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent
