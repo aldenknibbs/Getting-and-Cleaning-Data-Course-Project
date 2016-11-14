@@ -1,8 +1,6 @@
 ## Getting and Cleaning Data Project
 
-Alden Knibbs
-
-Repository for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course by Coursear.
+This repository for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course by Coursera.
 
 ### Overview
 This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent
@@ -11,7 +9,7 @@ analysis. A full description of the data used in this project can be found at [T
 [The source data for this project can be found here.](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
 ### Making Modifications to This Script
-Script creates a "data" directory where source and output data will be saved. If you wish to save to a specific location you will have to modify the script run_analysis.R
+The script (run_anlaysis.R) creates a "data" directory, if a dicrectory of that name does not already exist, where source and output data will be saved. If you wish to save to a specific location you will need to modify the script (lines 40-42).
 
 ### Project Summary
 The following is a summary description of the project instructions
